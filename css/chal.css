@@ -1,0 +1,102 @@
+body {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 768px;
+  height: 410px;
+  background-color: #eeeeee;
+  position: relative;
+  margin: 40px auto;
+}
+.la1,
+.la2,
+.la3,
+.la4,
+.la5,
+.la6 {
+  position: absolute;
+}
+.la1 {
+  left: 33px;
+  top: 52px;
+}
+.la2 {
+  left: 33px;
+  top: 134px;
+}
+
+.la3 {
+  left: 33px;
+  top: 236px;
+}
+
+.la4 {
+  left: 398px;
+  top: 52px;
+}
+
+.la5 {
+  left: 398px;
+  top: 138px;
+}
+
+.lia1,
+.lia2,
+.lia3,
+.lia4,
+.lia5 {
+  position: absolute;
+}
+.lia1 {
+  left: 31px;
+  top: 80px;
+  height: 34px;
+  width: 329px;
+}
+
+.lia2 {
+  left: 33px;
+  top: 161px;
+  height: 32px;
+  width: 330px;
+}
+
+.lia3 {
+  left: 33px;
+  top: 270px;
+  height: 34px;
+  width: 324px;
+}
+
+.lia4 {
+  left: 397px;
+  top: 79px;
+  height: 34px;
+  width: 324px;
+}
+
+.lia5 {
+  left: 397px;
+  top: 161px;
+  height: 143px;
+  width: 324px;
+}
+
+.la6 {
+  left: 38px;
+  top: 347px;
+  height: 38px;
+  width: 692px;
+  background-color: #4bae4f;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+span {
+  color: red;
+}
